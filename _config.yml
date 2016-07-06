@@ -11,10 +11,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8608124
 color:
   saturation: 1
-  brandStrength: 0.1712593059055507
+  brandStrength: 0.8703703
   lightness: 0.8990442
   brandColors:
     - '#B8B42D'
@@ -23,5 +22,6 @@ color:
     - '#3E363F'
     - '#DD403A'
   rhythmicContrast: 0.8811231
+typography_spectrum: 0.8608124
 layout_spectrum: 0.5274791
 name: Students Teach Students Leadership Institute
