@@ -1,15 +1,27 @@
-layout_spectrum: 0.006408359622582793
-typography_spectrum: 0.33151514478959143
+title: '"The World is Our Classroom"'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3315151447895914
 color:
-  brandStrength: 0.17125930590555072
-  lightness: 0.7177003649994731
-  saturation: 0.12660651025362313
-  rhythmicContrast: 0.8346371226944029
+  saturation: 0.574074
+  brandStrength: 0.1712593059055507
+  lightness: 0.8990442
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  rhythmicContrast: 0.8811231
+layout_spectrum: 0.006408359622582793
 name: Students Teach Students Leadership Institute
-title: '"The World is Our Classroom"'
