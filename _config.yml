@@ -1,4 +1,19 @@
-title: '"The World is Our Classroom"'
+typography_spectrum: 0.8608124
+color:
+  saturation: 1
+  brandStrength: 0.8703703
+  lightness: 0.8990442
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  rhythmicContrast: 0.8811231
+layout_spectrum: 0.5274791
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a5b3bd-6678-4fca-924e-7e01b29de808.jpg
+name: Students Teach Students Leadership Institute
 collections:
   - index:
       path: /
@@ -11,17 +26,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 0.8703703
-  lightness: 0.8990442
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  rhythmicContrast: 0.8811231
-typography_spectrum: 0.8608124
-layout_spectrum: 0.5274791
-name: Students Teach Students Leadership Institute
+title: '"The World is Our Classroom"'
